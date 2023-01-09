@@ -1,5 +1,5 @@
 # ChartWatch Intermediate
-This is a static site built for ThinkMD. It consumes data from the itunes top 100 charts RSS feed. It imports information from the current top 100 albums on itunes and displays their covers, their titles, and the artists that made them. It is also a front end application that utilizes Angular, alongside some animations with Sass to make it more interesting to look at. 
+This is a static site built for ThinkMD. It consumes data from the Itunes top 100 charts RSS feed, importing information from the current top 100 albums on Itunes. It displays their covers, their titles, and the artists that made them. It's a front end application that utilizes Angular, alongside some animations using Sass. 
 
 **A demo is available here:** https://bumpylumps.github.io/chartwatch-intermediate/
 
