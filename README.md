@@ -1,4 +1,4 @@
-# ChartWatch Intermediate
+# ChartWatch 
 This is a static site that consumes data from the Itunes top 100 charts RSS feed. It imports information from the current top 100 albums on Itunes and displays their covers, their titles, and the artists that made them. It's a front end application that utilizes Angular, alongside some animations using Sass. 
 
 **A demo is available here:** https://bumpylumps.github.io/chartwatch-intermediate/
